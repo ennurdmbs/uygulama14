@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bolum14\bolum14\obj\Debug\bolum14.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bolum14\bolum14\obj\Debug\bolum14.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bolum14\bolum14\obj\Debug\bolum14.Form1.resources
+C:\Users\User\source\repos\bolum14\bolum14\obj\Debug\bolum14.Properties.Resources.resources
+C:\Users\User\source\repos\bolum14\bolum14\obj\Debug\bolum14.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bolum14\bolum14\obj\Debug\bolum14.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bolum14\bolum14\bin\Debug\bolum14.exe.config
+C:\Users\User\source\repos\bolum14\bolum14\bin\Debug\bolum14.exe
+C:\Users\User\source\repos\bolum14\bolum14\bin\Debug\bolum14.pdb
+C:\Users\User\source\repos\bolum14\bolum14\obj\Debug\bolum14.exe
+C:\Users\User\source\repos\bolum14\bolum14\obj\Debug\bolum14.pdb
